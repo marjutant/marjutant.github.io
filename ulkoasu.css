@@ -87,9 +87,12 @@ h3{
     font-size: 14px;
 }
 
+#vierekkain{
+    display: inline;
+}
+
 .esimakua{
     padding: 1rem 1rem;
-    float: right;
 }
 
 .esimakua a{
