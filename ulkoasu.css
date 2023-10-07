@@ -74,11 +74,8 @@ h3{
 }
 
 .etusivua{
-    margin: auto;
-    padding: 1rem 9rem;
-    width: 75%;
-    max-width: 1200px;
-    overflow: hidden;
+    flex: 1;
+
 }
 
 .etusivua a{
@@ -87,12 +84,12 @@ h3{
     font-size: 14px;
 }
 
-#vierekkain{
-    display: inline;
+.flex{
+    display: flex;
 }
 
 .esimakua{
-    padding: 1rem 1rem;
+    margin-right: 20px;
 }
 
 .esimakua a{
