@@ -92,6 +92,12 @@ h3{
     float: right;
 }
 
+.esimakua a{
+    color: #c43f78;
+    text-decoration: none;
+    font-size: 14px;  
+}
+
 #Blogi{
     background-color: #d9d3d3;
     width: 75%;
