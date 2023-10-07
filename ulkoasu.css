@@ -26,9 +26,8 @@ header {
 #oikea img{
     border-radius: 50%;
     height: 80px;
-    float: inline-start; 
-    text-align: center;
-    padding-bottom: 5rem;
+    float: left; 
+    
 }
 
 header a{
