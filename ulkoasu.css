@@ -73,6 +73,9 @@ h3{
 .etusivua{
     margin: auto;
     padding: 1rem 9rem;
+    width: 75%;
+    max-width: 1200px;
+    overflow: hidden;
 }
 
 .etusivua a{
