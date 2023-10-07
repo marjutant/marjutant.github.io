@@ -100,7 +100,7 @@ h3{
     font-size: 14px;  
 }
 
-.Blogi{
+#Blogi{
     background-color: #d9d3d3;
     width: 75%;
     max-width: 1200px;
@@ -109,13 +109,13 @@ h3{
     
 }
 
-.Blogi a{
+#Blogi a{
     color: #c43f78;
     text-decoration: none;
     font-size: 14px; 
 }
 
-.Blogi h2{
+#Blogi h2{
     color: #c43f78;
 }
 
