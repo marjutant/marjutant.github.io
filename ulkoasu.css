@@ -101,7 +101,10 @@ h3{
 
 .Blogi{
     background-color: #d9d3d3;
-    
+    width: 75%;
+    max-width: 1200px;
+    margin: auto;
+    overflow: hidden;
     
 }
 
