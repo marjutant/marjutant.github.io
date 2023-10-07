@@ -90,6 +90,7 @@ h3{
 .esimakua{
     display: inline-block;
     padding: 1rem 1rem;
+    float: right;
 }
 
 #Blogi{
